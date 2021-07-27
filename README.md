@@ -29,10 +29,6 @@
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasHoeyrup&layout=compact&theme=calm" alt="github languages" width="60%" />
-</p>
-
 <div>
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MathiasHoeyrup&theme=calm" alt="github streaks" width="48%">
